@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+body {
+    color: cornflowerblue;
+    text-align: center;
+    padding-top: 150px;
+}
+div {
+	display: flex;
+    justify-content: space-evenly;
+}
